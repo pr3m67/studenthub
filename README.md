@@ -24,3 +24,5 @@ StudentHub is a full-stack student portal built with Django, MongoDB, React, Tai
 - TanStack Query for data fetching and cache control
 - Recharts for analytics views
 - Dark mode, skeletons, responsive layouts, and animated transitions
+
+- Author's Note: Still developing and improving the UI and Adding more features.Making an one stop solution for Student Management Sytem.
